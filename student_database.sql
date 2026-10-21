@@ -28,3 +28,5 @@ VALUES
 (1006, 'Meera Nair', 'C', 20, 18, 19, 20, 19, 'Kochi', '9000000006');
 
 SELECT * FROM students;
+
+DESCRIBE students;
